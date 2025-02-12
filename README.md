@@ -1,4 +1,4 @@
-![Build Status](https://github.com/xdan/jodit/workflows/Run%20tests/badge.svg)](https://github.com/norugin/kittygram-final/blob/main/.github/workflows/main.yml)
+[![Kittygram Final Workflow](https://github.com/norugin/kittygram-final/actions/workflows/main.yml/badge.svg)](https://github.com/norugin/kittygram-final/actions/workflows/main.yml)
 ## Описание проекта
 
 Сайт с возможностью публикации фотографий котов и их достижений.
