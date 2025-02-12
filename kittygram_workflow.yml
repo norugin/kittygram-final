@@ -1,5 +1,4 @@
 name: Kittygram Final Workflow
-
 on:
   push:
     branches:
